@@ -1,0 +1,9 @@
+{ 
+  "git.enabled": true, 
+  "git.autofetch": true, 
+  "files.exclude": { 
+    "**/node_modules": true, 
+    "**/.next": true, 
+    "**/out": true 
+  } 
+} 
